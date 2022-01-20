@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(177, 223, 207);
+}
+
+#caixa{
+width: 500px;
+height: 250px;
+background-color: white;
+margin: 200px auto;
+border-radius: 10px;
+}
+
+#caixa h1{
+    font-size: 40px;
+    padding: 20px;
+}
+
+#caixa ul{
+    padding: 20px;
+}
+
+#caixa ul li{
+    margin: 10px;
+    font-size: 25px;
+}
